@@ -7,4 +7,4 @@ public class SnakeApplication()
         // Creates a new JFrame
         GameFrame mainFrame = new GameFrame(400, 400);
     }
-}
+} 
