@@ -11,7 +11,7 @@ public class GameFrame extends JFrame
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JPanel mainPanel = new JPanel();
         mainPanel.setBackground(Color.RED);
-
+        setVisible(true);
         add(mainPanel);
 
     }
