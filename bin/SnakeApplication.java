@@ -1,6 +1,5 @@
 
-
-public class SnakeApplication()
+public class SnakeApplication
 {
     public void start()
     {
