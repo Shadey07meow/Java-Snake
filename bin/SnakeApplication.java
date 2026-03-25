@@ -1,4 +1,3 @@
-
 public class SnakeApplication
 {
     public void start()
